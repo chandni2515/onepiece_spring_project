@@ -1,7 +1,7 @@
-package com.example.springproject.controller;
+package com.example.onepieceproject.controller;
 
-import com.example.springproject.model.OnePiece;
-import com.example.springproject.service.OnePieceService;
+import com.example.onepieceproject.model.OnePiece;
+import com.example.onepieceproject.service.OnePieceService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;
 import reactor.core.publisher.Flux;

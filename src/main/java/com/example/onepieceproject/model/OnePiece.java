@@ -1,4 +1,4 @@
-package com.example.springproject.model;
+package com.example.onepieceproject.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

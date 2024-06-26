@@ -1,6 +1,6 @@
-package com.example.springproject.repository;
+package com.example.onepieceproject.repository;
 
-import com.example.springproject.model.OnePiece;
+import com.example.onepieceproject.model.OnePiece;
 import org.springframework.data.r2dbc.repository.R2dbcRepository;
 import org.springframework.stereotype.Repository;
 

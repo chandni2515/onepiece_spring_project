@@ -1,7 +1,7 @@
-package com.example.springproject.service;
+package com.example.onepieceproject.service;
 
-import com.example.springproject.model.OnePiece;
-import com.example.springproject.repository.OnePieceRepository;
+import com.example.onepieceproject.model.OnePiece;
+import com.example.onepieceproject.repository.OnePieceRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
